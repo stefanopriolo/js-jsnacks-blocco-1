@@ -8,3 +8,4 @@ for (i = 0; i < numbers.length; i++) {
 }
 
 console.log(sum);
+textSum.innerHTML = `La somma dei numeri dispari è ${sum}`;
